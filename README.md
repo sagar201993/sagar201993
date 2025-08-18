@@ -1,5 +1,9 @@
 # 💫 About Me:
-Front-end developer with experience in JavaScript, React, TypeScript, and building responsive web applications. Experienced in back-end<br>integration and full-stack development. Currently completing a Master’s in Applied Computer Science with my thesis submitted.<br>Interested in contributing innovative solutions in a dynamic team environment.
+Frontend Developer specializing in React & TypeScript, building scalable UI com-
+ponents and seamless user experiences across web and mobile. Skilled in applying
+functional programming principles, automated testing, and efficient debugging to en-
+sure high-quality production code. Proven ability to deliver customer-focused SaaS
+solutions within agile, cross-functional teams.
 
 
 ## 🌐 Socials:
