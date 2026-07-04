@@ -1,67 +1,80 @@
-<div align="center">
+# 👨‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E4057,100:5A7396&height=250&section=header&text=Munish%20Sagar&fontColor=E6EDF3&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Cloud%20Engineer%20•%20DevOps%20Engineer%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+Full-Stack Developer and DevOps Engineer specializing in React, TypeScript, Node.js, AWS, Docker, and CI/CD. I build scalable web applications, cloud-native solutions, and deployment automation pipelines that deliver reliable, secure, and high-performance user experiences. Skilled in frontend development, backend services, cloud infrastructure, containerization, and modern deployment workflows. I enjoy solving real-world business problems, optimizing applications, and building production-ready software from development to deployment.
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8CA3C4&center=true&vCenter=true&width=600&lines=Building+cloud-native+apps+on+AWS+%2B+Kubernetes;Automating+everything+with+Terraform+%26+CI%2FCD;Based+in+Dresden%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A7396?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munishsagar/)
-[![Email](https://img.shields.io/badge/Email-8CA3C4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarvirk1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagar201993)
+# 🌐 Socials
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munishsagar)
 
-## 👋 About Me
+---
 
-Cloud and DevOps-focused Software Engineer based in Dresden, Germany. I build cloud-native SaaS platforms end-to-end — from React frontends to containerized backend services on AWS — with a focus on automation and reliable CI/CD pipelines.
+# 🛠 Tech Stack
 
-- 🎓 M.Sc. Applied Computer Science — Schmalkalden University of Applied Sciences
-- ☁️ AWS Certified Solutions Architect Associate (Udemy)
-- 🔭 Currently building cloud infra with Terraform & exploring AI agent workflows (LangChain, n8n)
-- 💬 Open to: Cloud Engineer · DevOps Engineer · Platform Engineer · Full-Stack Developer
+### **Frontend Development**
 
-## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Cloud & DevOps**
+### **Backend Development**
 
-![](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,jenkins)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Backend & Frontend**
+### **Cloud & DevOps**
 
-![](https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,mongodb,react,nextjs,typescript)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Other**
+### **Infrastructure & Tools**
 
-![](https://skillicons.dev/icons?i=linux,nginx,grafana,git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+# 🚀 What I Do
 
-<img src="https://github-readme-stats.vercel.app/api?username=sagar201993&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8CA3C4&icon_color=C7D4E8&text_color=E6EDF3" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar201993&hide_border=true&background=0D1117&ring=8CA3C4&fire=C7D4E8&currStreakLabel=8CA3C4" width="48%" />
+- Build scalable **React** and **Next.js** applications using TypeScript
+- Develop secure **REST APIs** with Node.js, Express.js, and PostgreSQL
+- Design and deploy **cloud-native solutions** on AWS
+- Containerize applications using **Docker** and **Kubernetes**
+- Implement **CI/CD pipelines** with GitHub Actions, GitLab CI/CD, and Jenkins
+- Optimize application performance, deployment workflows, and cloud infrastructure
+- Deliver production-ready full-stack applications from concept to deployment
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar201993&bg_color=0D1117&color=8CA3C4&line=5A7396&point=C7D4E8&area=true&hide_border=true" width="100%"/>
+---
 
-</div>
+# 📂 Featured Projects
 
-## 💼 Experience
+### **1. Metadata Extraction & Visualization Platform**
+Built a metadata extraction and visualization platform using React, Python, MongoDB, REST APIs, and Docker.
 
-**Full-Stack Developer** — Hauptstadt-IT GmbH, Berlin *(Jul 2024 – Jul 2025)*
-Built a cloud-native SaaS timetable platform for Berlin schools using React, TypeScript, and AWS; cut deployment effort 40% with GitLab/Jenkins CI/CD.
+### **2. German Economic Insights Dashboard**
+Developed an AI-powered analytics dashboard using FastAPI, Python, SQLite, Plotly.js, and Gemini AI.
 
-**Full-Stack Developer Trainee** — Epicode Global, Berlin *(Apr 2022 – Apr 2023)*
-Built full-stack apps with React, Next.js, and Node.js; reduced load times 20% and hit 85% test coverage with Jest.
+### **3. AWS Cloud Infrastructure Project**
+Implemented cloud-native deployment architecture using AWS services, Docker, and CI/CD pipelines.
 
-## 🚀 Projects
+### **4. Full-Stack SaaS Application**
+Built a scalable web application with React, TypeScript, Node.js, PostgreSQL, and AWS deployment.
 
-**Metadata Extraction & Visualization** *(Master's Thesis)* — React, Python, MongoDB, Docker — real-time analytics dashboards with ApexCharts
+---
 
-**German Economic Insights** *(AI Analytics Dashboard)* — Python, FastAPI, SQLite, Plotly.js, Gemini AI — automated PDF processing & AI-generated reports
+# 📫 Contact Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sagar201993/sagar201993/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A7396,100:0D1117&height=150&section=footer"/>
-
-</div>
+Feel free to connect with me on LinkedIn or reach out for collaboration, freelance work,
+full-stack development, cloud engineering, or DevOps opportunities.
